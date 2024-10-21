@@ -1,6 +1,7 @@
 # Lab4Web
 
-[Project Link]()<br>
+[Project Link](https://pranaa22.github.io/Lab4Web/)<br>
+<br>
 **Pertanyaan dan Tugas** <br> 
 1. Tambahkan Layout untuk menu About <br>
 => buat single layout yang berisi deskripsi, portfolio, dll <br>
